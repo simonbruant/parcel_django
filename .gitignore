@@ -1,0 +1,12 @@
+*.pyc
+frontend/.cache
+frontend/node_modules
+frontend/dist
+
+app1/static/app1
+
+
+.vscode
+
+db.sqlite3
+git 
